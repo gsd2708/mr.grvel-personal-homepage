@@ -1,14 +1,14 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Mr. Grvel | Personal Webpage",
+	"Name": "Mr. Grvel",
 	"Description": [
 		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
 		"I grab every chance I get to travel, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "",
 	"AboutContent": [
 		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
@@ -19,7 +19,7 @@
 	"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"WorkImage": "",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
 			"name": "Amazon India",
